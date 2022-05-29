@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CoreHub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreHub_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CoreHub.jar">
+        <element id="module-output" name="CoreHub" />
+      </element>
+    </root>
+  </artifact>
+</component>
